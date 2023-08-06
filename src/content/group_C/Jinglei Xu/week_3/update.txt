@@ -1,0 +1,1 @@
+add baked texture of blender kitbash model, together with the .gif
